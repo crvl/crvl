@@ -5,8 +5,8 @@
 <br>
 
 - 🌱 I’m currently learning how to use [SNNs](https://en.wikipedia.org/wiki/Spiking_neural_network)
-- 👔 _Professional_ projects are available at [my Github profile](https://github.com/kai-pre/)
-- 👕 _Personal_ projects are available right here, at [my other Github profile](https://github.com/crvl/)
+- 👕 _Personal_ projects are available right here, at [my Github profile](https://github.com/crvl/)
+- 👔 _Professional_ projects are available at [my other Github profile](https://github.com/kai-pre/)
 
 <br>
 
